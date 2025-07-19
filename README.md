@@ -41,7 +41,7 @@ Each user has their own dashboard. Clean, secure, and beginner-friendly.
 
 **Main Dashboard Page**
 
-<img width="1897" height="903" alt="image" src="https://github.com/user-attachments/assets/b87c4e5b-d906-4129-9512-6b6fb94e5466" />
+<img width="1902" height="887" alt="image" src="https://github.com/user-attachments/assets/1712863f-f849-4645-8194-b05f11ef27ae" />
 
 **Add Note Page**
 
