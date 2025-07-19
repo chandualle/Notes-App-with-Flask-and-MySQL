@@ -28,3 +28,25 @@ Each user has their own dashboard. Clean, secure, and beginner-friendly.
 - **HTML + CSS**
 
 ---
+
+
+## Screenshots
+
+**Login and Sign Up Pages**
+
+<img width="1912" height="907" alt="image" src="https://github.com/user-attachments/assets/07fec21d-b320-4c33-b471-67ffb0e09b61" />
+
+
+<img width="1896" height="904" alt="image" src="https://github.com/user-attachments/assets/4856a7a4-ba03-4786-b576-e28c0c74ca1e" />
+
+**Main Dashboard Page**
+
+<img width="1897" height="903" alt="image" src="https://github.com/user-attachments/assets/b87c4e5b-d906-4129-9512-6b6fb94e5466" />
+
+**Add Note Page**
+
+<img width="1897" height="885" alt="image" src="https://github.com/user-attachments/assets/8452d5f4-124b-473c-9860-83e6f68a85fa" />
+
+**Update Note Page**
+
+<img width="1897" height="904" alt="image" src="https://github.com/user-attachments/assets/fb469e53-8224-485e-aa6b-f88098fb6d5b" />
